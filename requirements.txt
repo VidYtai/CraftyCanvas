@@ -4,3 +4,4 @@ django-tinymce
 gunicorn
 django-admin-interface
 dj-database-url
+psycopg2
